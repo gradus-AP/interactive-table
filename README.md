@@ -1,5 +1,11 @@
 # インタラクティブな表をネイティブjavascriptで実装
 
+ブラウザで検索・ソートが行える表を実装しました.
+
+サンプルは以下のURLで確認できます.
+
+[サンプル](https://gradus-ap.github.io/interactive-table/public/index.html)
+
 ## 準備
 
 まず今回用にjsプロジェクトを作成します.
