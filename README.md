@@ -100,8 +100,8 @@ button {
 
 ## 静的な表を出力
 
-テーブルの内容は配列として`TableModel`の`data`として管理します. 
-また表示するテーブルの内容は`tableItems`で管理するようにし, 
+テーブルの全レコードは配列として`TableModel`の`data`として管理します. 
+また表示するテーブルのレコードは`tableItems`で管理するようにし, 
 `TableView`側で`tableItems`を元にHTML文字列を組み立てを行い描画すれば表の出力ができます.
 
 - public/js/app.js
